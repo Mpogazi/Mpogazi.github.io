@@ -16,7 +16,6 @@ body {
 	padding-left: 6%;
 	padding-right: 6%;
 	padding-bottom: 2%;
-	height: 1900px;
 }
 
 img {
@@ -26,12 +25,12 @@ img {
 }
 
 .big_txt {
-	font-size: 76px;
+	font-size: 48px;
 }
 
 ul li {
 	display: inline-block;
-	font-size: 76px;
+	font-size: 48px;
 	color: blue;
 	margin-right: 20%;
 }
