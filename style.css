@@ -25,12 +25,12 @@ img {
 }
 
 .big_txt {
-	font-size: 36px;
+	font-size: 28px;
 }
 
 ul li {
 	display: inline-block;
-	font-size: 36px;
+	font-size: 28px;
 	color: blue;
 	margin-right: 20%;
 }
