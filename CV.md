@@ -7,7 +7,7 @@ permalink: /CV
 # EDUCATION
 Tufts University, class 2021
 * Rising sophomore at Tufts University majoring in Computer Science and Math
-* Relevant Courses: Intro to Computer Science, Data Structures, Web Programming, Discrete Math
+* Relevant Courses: Intro to Computer Science, Data Structures, Web Programming, Discrete Math, Machine Structure and Assembly Language.
 
 # AWARDS
 * Dean's List 2018 Spring Semester
@@ -15,8 +15,8 @@ Tufts University, class 2021
 
 #  PROFESSIONAL EXPERIENCE
 
-#### BKTechouse, Kigali, Rda— May 2018 - Present
-App Developer Intern
+#### BKTechouse, Kigali, Rda— Software Engineering Intern
+May 2018 - August 2018
 * Scripted Node.js codes for automated api-testing using Mocha and Chai npm libraries.
 * Developed front-end technologies for the APIs using AngularJS and Jade templating engine.
  
