@@ -16,10 +16,9 @@
 title: Fabrice B. Mpogazi
 email: Fabrice.Mpogazi@tufts.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Fabrice's Website.
+  Fabrice's Portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: FabriceBigabiro
 github_username:  Mpogazi
 linkedin_username: fmpoga01
 
