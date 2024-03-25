@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
+<<<<<<< HEAD
     <title>Fabrice&#39;s Scribbles</title>
     <link>https://Mpogazi.github.io/</link>
     <description>Recent content on Fabrice&#39;s Scribbles</description>
@@ -15,5 +16,13 @@
       <guid>https://Mpogazi.github.io/posts/naissance/</guid>
       <description>We are all busy going about our lives, consumed by a never-ending stream of tasks and responsibilities. Each day, we face urgent demands that seem crucial at the moment, but we quickly forget them once they are completed. In this constant hustle, we rarely pause to break the monotony and reflect on life as a whole. We seldom ask ourselves profound questions like, why are we here? What is happening in the infinite universe around us?</description>
     </item>
+=======
+    <title>Fab Scribbles</title>
+    <link>https://Mpogazi.github.io/</link>
+    <description>Recent content on Fab Scribbles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://Mpogazi.github.io/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 2e569ce (New changes Just for setting up)
   </channel>
 </rss>
