@@ -1,0 +1,6 @@
+[submodule "fabrice/themes/tailwind"]
+	path = fabrice/themes/tailwind
+	url = https://github.com/tomowang/hugo-theme-tailwind.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
