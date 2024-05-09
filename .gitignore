@@ -1,0 +1,13 @@
+archetypes/
+assets/
+content/
+data/
+fabrice/
+i18n/
+layouts/
+static/
+themes/
+hugo.toml
+config.yml
+.hugo_build.lock
+.gitmodules
